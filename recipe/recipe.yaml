@@ -17,6 +17,8 @@ source:
     - patches/fix-readnewmesh-return.patch
     - if: win or osx
       then: patches/mingw_time.patch
+    - if: win
+      then: patches/fix-win-locale.patch
 
 build:
   number: 2
