@@ -11,7 +11,7 @@ Summary: 3D Structural Finite Element Program
 
 Development: https://github.com/Dhondtguido/CalculiX
 
-Documentation: https://www.dhondt.de/ccx_2.22.pdf
+Documentation: https://www.dhondt.de/ccx_2.23.pdf
 
 A Free Software Three-Dimensional Structural Finite Element Program
 
